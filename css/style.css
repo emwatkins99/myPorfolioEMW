@@ -17,7 +17,7 @@ h2 {
 img {
     max-width: 100%;
     height: auto; 
-    margin: 0 10em 5em 10em;
+    /* margin: 0 10em 5em 10em; */
 }
 
 h3 {
@@ -36,4 +36,14 @@ h3 {
 
 .gallery-star-mission-2 {
     text-align: center;
+}
+
+.gallery-guitar {
+    text-align: center;
+    display: block;
+}
+
+.gallery-random-works {
+    text-align: center;
+    display: block;
 }
