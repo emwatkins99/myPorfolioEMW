@@ -26,6 +26,20 @@ h3 {
     font-weight: bold;
 }
 
+.nav-link {
+    text-decoration: none;
+    color: #000;
+    font-size: 1.2em;
+    padding: 2em 1em;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.nav-bar-background {
+    background-color: #f0f0f0;
+    padding: 1em 0;
+}
+
 .gallery-coffee {
    text-align: center;
 }
@@ -47,3 +61,4 @@ h3 {
     text-align: center;
     display: block;
 }
+
