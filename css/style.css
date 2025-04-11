@@ -17,6 +17,7 @@ h2 {
 img {
     max-width: 100%;
     height: auto; 
+    text-align: center;
     /* margin: 0 10em 5em 10em; */
 }
 
@@ -40,12 +41,20 @@ h3 {
     padding: 1em 0;
 }
 
+.nav-item {
+    display: inline-block;
+    margin: 0 5em;
+}
+
 .gallery-coffee {
    text-align: center;
 }
 
 .gallery-star-mission-1 {
     text-align: center;
+    padding-bottom: 0.25em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
 }
 
 .gallery-star-mission-2 {
@@ -62,3 +71,14 @@ h3 {
     display: block;
 }
 
+.carousel-item {
+    text-align: center;
+}
+
+.slide {
+    text-align: center;
+}
+
+.w-100 {
+    width: 25%;
+}
