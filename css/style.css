@@ -1,3 +1,11 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #fffdde;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
 h1 {
     font-size: 2em;
     text-align: center;
@@ -27,6 +35,11 @@ h3 {
     font-weight: bold;
 }
 
+.logo {
+    text-align: center;
+    margin: 2em 0;
+}
+
 .nav-link {
     text-decoration: none;
     color: #000;
@@ -37,13 +50,13 @@ h3 {
 }
 
 .nav-bar-background {
-    background-color: #f0f0f0;
+    background-color: #f3deff;
     padding: 1em 0;
 }
 
 .nav-item {
     display: inline-block;
-    margin: 0 5em;
+    margin: 0 10em;
 }
 
 .gallery-coffee {
@@ -59,6 +72,9 @@ h3 {
 
 .gallery-star-mission-2 {
     text-align: center;
+    padding-bottom: 0.25em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
 }
 
 .gallery-guitar {
@@ -68,8 +84,73 @@ h3 {
 
 .gallery-random-works {
     text-align: center;
-    display: block;
+    padding: 1em;
 }
+
+.copyright {
+    text-align: center;
+    font-size: 0.9em;
+    padding: 1em 0;
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.gallery-random-works-1 {
+    padding: 1em;
+}
+
+.gallery-random-works-2 {
+    padding: 1em;
+}
+
+.gallery-random-works-3 {
+    padding: 1em;
+}
+
+.gallery-random-works-4 {
+    padding: 1em;
+}
+
+.gallery-random-works-5 {
+    padding: 1em;
+}
+
+.gallery-random-works-6 {
+    padding: 1em;
+}
+
+.gallery-random-works-7 {
+    padding: 1em;
+}
+
+.gallery-random-works-8 {
+    padding: 1em;
+}
+
+.gallery-random-works-9 {
+    padding: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*
 css for carousel
