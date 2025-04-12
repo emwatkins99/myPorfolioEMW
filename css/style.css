@@ -75,7 +75,7 @@ h3 {
 
 .coffee{
     background-color: #A49393;
-    padding: 2.6em;
+    padding: 2.8em;
     font-size: 1.2em;
 }
 
@@ -85,7 +85,13 @@ h3 {
 
 .guitar {
     background-color: #f78879;
-    padding: 2.6em;
+    padding: 2.8em;
+    font-size: 1.2em;
+}
+
+.star-mission {
+    background-color: #d49fff;
+    padding: 2.8em;
     font-size: 1.2em;
 }
 
