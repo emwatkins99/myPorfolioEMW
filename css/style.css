@@ -114,17 +114,14 @@ h3 {
     display: block;
 }
 
+.random-works {
+    padding: 2.8em 2.8em 1em 2.8em;
+    font-size: 1.2em;
+}
+
 .gallery-random-works {
     text-align: center;
     padding: 1em;
-}
-
-.copyright {
-    text-align: center;
-    font-size: 0.9em;
-    padding: 1em 0;
-    background-color: #f0f0f0;
-    font-weight: bold;
 }
 
 .gallery-random-works-1 {
@@ -163,6 +160,13 @@ h3 {
     padding: 1em;
 }
 
+.copyright {
+    text-align: center;
+    font-size: 0.9em;
+    padding: 1em 0;
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
 
 
 
