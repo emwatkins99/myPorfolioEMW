@@ -59,6 +59,12 @@ h3 {
     margin: 0 10em;
 }
 
+.sticky-navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
 .gallery-coffee {
    text-align: center;
 }
