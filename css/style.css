@@ -75,12 +75,18 @@ h3 {
 
 .coffee{
     background-color: #A49393;
-    padding: 2.5em;
+    padding: 2.6em;
     font-size: 1.2em;
 }
 
 .gallery-coffee {
    text-align: center;
+}
+
+.guitar {
+    background-color: #f78879;
+    padding: 2.6em;
+    font-size: 1.2em;
 }
 
 .gallery-star-mission-1 {
