@@ -65,6 +65,11 @@ h3 {
     z-index: 1000;
 }
 
+.coffee{
+    background-color: #A49393;
+    padding: 2.5em;
+}
+
 .gallery-coffee {
    text-align: center;
 }
