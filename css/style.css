@@ -25,7 +25,6 @@ img {
     max-width: 100%;
     height: auto; 
     text-align: center;
-    /* margin: 0 10em 5em 10em; */
 }
 
 h3 {
@@ -88,6 +87,11 @@ h3 {
     font-size: 1.2em;
 }
 
+.gallery-guitar {
+    text-align: center;
+    display: block;
+}
+
 .star-mission {
     background-color: #d49fff;
     padding: 2.8em;
@@ -106,11 +110,6 @@ h3 {
     padding-bottom: 0.25em;
     padding-left: 0.75em;
     padding-right: 0.75em;
-}
-
-.gallery-guitar {
-    text-align: center;
-    display: block;
 }
 
 .random-works {
@@ -200,7 +199,34 @@ h3 {
     text-align: center;
     padding: 3em 2.5em 1em 2.5em;
     font-size: 1.2em;
+
+}
+
+.contact-form {
+    padding: 0.5em;
+    font-weight: bold;
+    text-align: center;
     
+}
+
+.message-container {
+    padding-left: 3.5em;
+}
+
+.submit-button {
+    text-decoration: dotted;
+    background-color: #d49fff;
+    color: #fff;
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2em;
+    font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: inline-block;
 }
 
 .copyright {
@@ -210,38 +236,3 @@ h3 {
     background-color: #f0f0f0;
     font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-css for carousel
-
-.carousel-item {
-    text-align: center;
-}
-
-.slide {
-    text-align: center;
-}
-
-.w-100 {
-    width: 25%;
-} */
