@@ -1,4 +1,4 @@
-# myPorfolioEMW
+# myPortfolioEMW
 Name: Elizabeth Watkins
 
 Overview/Description: This is a website graphic design portfolio of some of the graphic designs I have created over the years. Hope you enjoy!!
