@@ -196,6 +196,13 @@ h3 {
     font-size: 1.2em;
 }
 
+.contact-form-container {
+    text-align: center;
+    padding: 3em 2.5em 1em 2.5em;
+    font-size: 1.2em;
+    
+}
+
 .copyright {
     text-align: center;
     font-size: 0.9em;
